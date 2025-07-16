@@ -64,7 +64,7 @@ const Header = () => {
             <div className="space-y-5 mb-10 animate-fadeIn">
               {[{
                 icon: "📅",
-                title: "December 8-11, 2025",
+                title: "December 11, 2025",
                 subtitle: "Workshop Date",
               }, {
                 icon: "📍",

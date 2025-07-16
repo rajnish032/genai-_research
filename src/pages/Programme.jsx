@@ -9,10 +9,10 @@ const ProgramSchedule = () => {
           3rd International Workshop on Big Data Analytics with Artificial Intelligence for Climate Change
         </h1>
         <p className="text-lg mt-2 font-medium text-gray-600">
-          <strong>Workshop Chair:</strong> Dr. Abhijit Kumar
+          <strong>Workshop Chair:</strong> Prof. Rajiv Misra
         </p>
         <p className="mt-1">
-          <strong>Date:</strong> December 8, 2025 &nbsp;|&nbsp; <strong>Time Zone:</strong> US Eastern Standard Time
+          <strong>Date:</strong> December 11, 2025 &nbsp;|&nbsp; <strong>Time Zone:</strong> US Eastern Standard Time
         </p>
         <p className="mt-2">
           <strong>Meeting Link:</strong>{' '}
