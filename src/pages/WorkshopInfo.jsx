@@ -81,8 +81,8 @@ const WorkshopInfo = () => {
         <h2 className="text-2xl font-bold text-blue-700 border-b pb-2 mb-4">📅 Important Dates</h2>
         <ul className="list-disc pl-6 space-y-1">
           <li><strong>Workshop Date:</strong> December 11, 2025</li>
-          <li><strong>Electronic submission of full papers:</strong> October 5, 2025</li>
-          <li><strong>Notification of paper acceptance:</strong> November 4, 2025</li>
+          <li><strong>Electronic submission of full papers:</strong>  November 8, 2025</li>
+          <li><strong>Notification of paper acceptance:</strong> November 10, 2025</li>
           <li><strong>Camera-ready of accepted papers:</strong> November 23, 2025</li>
         </ul>
       </section>
