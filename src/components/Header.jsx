@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 const Header = () => {
-  const eventDate = new Date("2025-12-08T22:00:00").getTime();
+  const eventDate = new Date("2025-12-09T22:00:00").getTime();
 
   const calculateTimeLeft = () => {
     const now = new Date().getTime();
@@ -64,7 +64,7 @@ const Header = () => {
             <div className="space-y-5 mb-10 animate-fadeIn">
               {[{
                 icon: "📅",
-                title: "December 11, 2025",
+                title: "December 9, 2025",
                 subtitle: "Workshop Date",
               }, {
                 icon: "📍",
